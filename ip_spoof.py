@@ -1,3 +1,6 @@
+#### :: TCP IP spoofer   - Tamil Selvan M :: ####
+#### :: github @tamil-03                  :: ####
+#### :: git.selfmade.ninja @tamil0323     :: ####
 #### :: MULTI-THREADED IP SPOOFING CLIENT :: ####
 #### :: (MAY!) WORKS WITH ALL TCP SERVERS :: ####
 
